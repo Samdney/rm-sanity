@@ -13,4 +13,4 @@ It's assumed that you have setup a ssh alias for your Remarkable tablet. Informa
 
 
 ## No warranty
-No warranty. Usage in your own risk.
+No warranty. Usage on your own risk.
